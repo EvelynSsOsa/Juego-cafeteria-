@@ -127,7 +127,7 @@ pip install pygame
 Ejecuta:
 
 ```bash
-python main_final.py
+python cafee.py
 ```
 
 ---
