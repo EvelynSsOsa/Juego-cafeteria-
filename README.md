@@ -9,12 +9,20 @@ Cada cliente llega con una orden aleatoria y el objetivo es seleccionar correcta
 
 ## 🎮 Vista del juego
 
-*(Aquí puedes agregar capturas después)*
+### Pantalla principal
+![Pantalla principal](inicio.png)
 
-```md
-![Pantalla principal](imagenes/inicio.png)
-![Gameplay](imagenes/gameplay.png)
-```
+### Pedido correcto
+![Pedido correcto](correcto.png)
+
+### Pedido incorrecto
+![Pedido incorrecto](incorrecto.png)
+
+### Pausa
+![Pausa](pausa.png)
+
+### Score final
+![Score](score.png)
 
 ---
 
